@@ -105,8 +105,8 @@ const FizzBuzz =require("../FizzBuzz")
          */
 
         //ARRANGE: PREPARA EL ESCENARIO (ENTRADAS Y SALIDAS)
-        const numero_ingresado = 2;
-        const respuesta_esperada = numero_ingresado.toString();
+        const numero_ingresado = 1;
+        const respuesta_esperada = numero_ingresado;
         const fizz = new FizzBuzz(); //clases
 
         //ACT: EJECUTAR EL ESCENARIO
